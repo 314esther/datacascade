@@ -1,0 +1,6 @@
+[submodule "site/hugo-cards"]
+	path = site/hugo-cards
+	url = https://github.com/314esther/hugo-cards.git
+[submodule "site/themes/hugo-cards"]
+	path = site/themes/hugo-cards
+	url = https://github.com/314esther/hugo-cards.git

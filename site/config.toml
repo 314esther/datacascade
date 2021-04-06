@@ -1,7 +1,8 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Homepage"
+title = "My page"
+theme = "hugo-cards"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
