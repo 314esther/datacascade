@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ partial "../themes/hugo-cards/layouts/partials/carousel.html" . }}
+{{ partial "carousel.html" . }}
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
